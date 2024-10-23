@@ -4,3 +4,4 @@ tqdm
 beautifulsoup4
 matplotlib
 aeon
+seaborn
